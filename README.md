@@ -10,6 +10,7 @@ Nothing new! ✅
 iOS: iOS Mobile SDK Release Note v4.15.2 2021-10-11 en
 Android: Android Mobile SDK Release Note v4.16 2021-12-29 en
 ```
+![notification](/screenshot.png)
 
 
 ## Setup
