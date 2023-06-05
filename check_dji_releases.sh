@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Add `gh` command line
+export PATH="$PATH:/opt/homebrew/bin/"
+
 function notify() { 
     input="$(cat)"
     osascript -e "display notification \"$input\" with title \"DJI Releases\""
